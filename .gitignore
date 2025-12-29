@@ -1,0 +1,17 @@
+# Ignore environment file with secret API key
+
+.env
+
+
+# Ignore Python cache folders
+
+__pycache__/
+
+*.pyc
+
+
+# Ignore VS Code workspace settings
+
+.vscode/
+
+
